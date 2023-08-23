@@ -8,17 +8,17 @@ Contar a história dos dados atráves de uma visualização no Power BI Desktop.
 
 Os dados estão em duas bases:
 
- - 1. População do Brasil entre 2000 e 2021 por município, sexo e faixa etária.
- - 2. Municípios do Brasil por unidade federativa e distritos.
+1. População do Brasil entre 2000 e 2021 por município, sexo e faixa etária.
+2. Municípios do Brasil por unidade federativa e distritos.
 
 ## Etapas do processo analitico
 
- - 1. Importação das bases.
- - 2. Transformação.
- - 3. Criação de novas tabelas.
- - 4. Modelando o relacionamento das tabelas.
- - 5. Criação de medidas.
- - 6. Montando os visuais.
+1. Importação das bases.
+2. Transformação.
+3. Criação de novas tabelas.
+4. Modelando o relacionamento das tabelas.
+5. Criação de medidas.
+6. Montando os visuais.
 
 ## Resumo do dashboard:
 
